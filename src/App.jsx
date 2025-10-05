@@ -133,7 +133,7 @@ ${code}
 
             <button onClick={() => {
               if(code===""){
-                alert("Drop your code, I’ll handle the rest.")
+                alert("Drop your code, I’ll handle the rest 😌.")
               }
               else{
                 reviewCode()
